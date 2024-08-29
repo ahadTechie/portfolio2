@@ -1,0 +1,47 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+build/
+.pub-cache/
+.idea/
+.vscode/
+pubspec.lock
+.dart_tool/
+.metadata
+
+# Android related
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS related
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Runner/Assets.xcassets
+ios/Flutter/Generated.xcassets
+ios/Podfile.lock
+
+# Xcode related
+xcuserdata/
+*.xcuserstate
+
+# Web related
+web/manifest.json
+web/favicon.png
+
+# MacOS related
+macos/Flutter/ephemeral/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
